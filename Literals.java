@@ -13,9 +13,12 @@ public class Literals {
         int num2 = 1_00_00_00_000;
         System.out.println(num2);
 
-        //double
-        double num3 = 59;
+        // //double
+        // double num3 = 59;
+        double num3 =  12e16;
         System.out.println(num3);
+
+        //char
     }
     
 }
