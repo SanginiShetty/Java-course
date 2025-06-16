@@ -19,6 +19,9 @@ public class Literals {
         System.out.println(num3);
 
         //char
+        char c = 'a';
+        c++;
+        System.out.println(c);
     }
     
 }
